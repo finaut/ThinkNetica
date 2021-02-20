@@ -11,6 +11,10 @@ gem 'sass-rails', '6'
 gem 'turbolinks', '5.2.1'
 gem 'webpacker', '5.2.1'
 
+# views
+gem 'slim', '4.1.0'
+gem 'slim-rails', '3.2.0'
+
 # windows
 gem 'tzinfo-data', platforms: %i[mingw mswin x64_mingw jruby]
 
